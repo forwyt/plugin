@@ -159,7 +159,7 @@ int main()
         return -1;
     }
 
-    string url = "https://msdk.wangxingqing.com/sys/sys/initSdk";
+    string url = "https://xxxx";
     string filename = "1.json";
 
     curl_slist *pList = NULL;
