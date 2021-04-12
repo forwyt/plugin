@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jasonphd/Desktop/gitlab/github/plugin/network.cpp
+iostream
+-
+string
+-
+curl/curl.h
+-
+curl/easy.h
+-
+stdlib.h
+-
+string.h
+-
+

@@ -1,0 +1,3 @@
+/Users/jasonphd/Desktop/gitlab/github/plugin/CMakeFiles/rebuild_cache.dir
+/Users/jasonphd/Desktop/gitlab/github/plugin/CMakeFiles/edit_cache.dir
+/Users/jasonphd/Desktop/gitlab/github/plugin/CMakeFiles/network.dir
